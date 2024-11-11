@@ -11,11 +11,3 @@
 body {
   font-display: swap;
 }
-
-.picked-add-ons {
-  scroll-snap-type: x mandatory;
-}
-
-.picked-add-on {
-  scroll-snap-align: center;
-}
